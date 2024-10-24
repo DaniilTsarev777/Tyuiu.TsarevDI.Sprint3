@@ -1,0 +1,14 @@
+D:\repos\Tyuiu.TsarevDI.Sprint3\Tyuiu.TsarevDI.Sprint3.Task7.V4.Lib\bin\Debug\net8.0\Tyuiu.TsarevDI.Sprint3.Task7.V4.Lib.deps.json
+D:\repos\Tyuiu.TsarevDI.Sprint3\Tyuiu.TsarevDI.Sprint3.Task7.V4.Lib\bin\Debug\net8.0\Tyuiu.TsarevDI.Sprint3.Task7.V4.Lib.dll
+D:\repos\Tyuiu.TsarevDI.Sprint3\Tyuiu.TsarevDI.Sprint3.Task7.V4.Lib\bin\Debug\net8.0\Tyuiu.TsarevDI.Sprint3.Task7.V4.Lib.pdb
+D:\repos\Tyuiu.TsarevDI.Sprint3\Tyuiu.TsarevDI.Sprint3.Task7.V4.Lib\bin\Debug\net8.0\tyuiu.cources.programming.interfaces.dll
+D:\repos\Tyuiu.TsarevDI.Sprint3\Tyuiu.TsarevDI.Sprint3.Task7.V4.Lib\obj\Debug\net8.0\Tyuiu.TsarevDI.Sprint3.Task7.V4.Lib.csproj.AssemblyReference.cache
+D:\repos\Tyuiu.TsarevDI.Sprint3\Tyuiu.TsarevDI.Sprint3.Task7.V4.Lib\obj\Debug\net8.0\Tyuiu.TsarevDI.Sprint3.Task7.V4.Lib.GeneratedMSBuildEditorConfig.editorconfig
+D:\repos\Tyuiu.TsarevDI.Sprint3\Tyuiu.TsarevDI.Sprint3.Task7.V4.Lib\obj\Debug\net8.0\Tyuiu.TsarevDI.Sprint3.Task7.V4.Lib.AssemblyInfoInputs.cache
+D:\repos\Tyuiu.TsarevDI.Sprint3\Tyuiu.TsarevDI.Sprint3.Task7.V4.Lib\obj\Debug\net8.0\Tyuiu.TsarevDI.Sprint3.Task7.V4.Lib.AssemblyInfo.cs
+D:\repos\Tyuiu.TsarevDI.Sprint3\Tyuiu.TsarevDI.Sprint3.Task7.V4.Lib\obj\Debug\net8.0\Tyuiu.TsarevDI.Sprint3.Task7.V4.Lib.csproj.CoreCompileInputs.cache
+D:\repos\Tyuiu.TsarevDI.Sprint3\Tyuiu.TsarevDI.Sprint3.Task7.V4.Lib\obj\Debug\net8.0\Tyuiu.Ts.F5DEFBC5.Up2Date
+D:\repos\Tyuiu.TsarevDI.Sprint3\Tyuiu.TsarevDI.Sprint3.Task7.V4.Lib\obj\Debug\net8.0\Tyuiu.TsarevDI.Sprint3.Task7.V4.Lib.dll
+D:\repos\Tyuiu.TsarevDI.Sprint3\Tyuiu.TsarevDI.Sprint3.Task7.V4.Lib\obj\Debug\net8.0\refint\Tyuiu.TsarevDI.Sprint3.Task7.V4.Lib.dll
+D:\repos\Tyuiu.TsarevDI.Sprint3\Tyuiu.TsarevDI.Sprint3.Task7.V4.Lib\obj\Debug\net8.0\Tyuiu.TsarevDI.Sprint3.Task7.V4.Lib.pdb
+D:\repos\Tyuiu.TsarevDI.Sprint3\Tyuiu.TsarevDI.Sprint3.Task7.V4.Lib\obj\Debug\net8.0\ref\Tyuiu.TsarevDI.Sprint3.Task7.V4.Lib.dll
