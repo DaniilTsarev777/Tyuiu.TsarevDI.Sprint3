@@ -6,18 +6,21 @@ namespace Tyuiu.TsarevDI.Sprint3.Task7.V4.Lib
     {
         public double[] GetMassFunction(int startValue, int stopValue)
         {
-            int count;
-
             double[] m = new double[11];
- 
-            count = 0;
+
+            int count = 0;
 
             for (int x = startValue; x <= stopValue; x++)
-
-                m[count] = Math.Round((2 * x + 6) / (Math.Cos(x) + x) - 3, 2);
-                
-                count++;
-
+                if ((Math.Cos(x) + x) != 0)
+                {
+                    m[count] = Math.Round(((((2 * x) + 6) / (Math.Cos(x) + x)) - 3), 2);
+                    count++;
+                }
+                else
+                {
+                    m[count] = -3;
+                    count++;
+                }
             return m;
         }
     }
